@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://2489344858.github.io</id>
     <title>吾谓乃翁&apos;s blog</title>
-    <updated>2021-02-25T08:33:44.049Z</updated>
+    <updated>2021-02-26T16:48:41.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://2489344858.github.io"/>
     <link rel="self" href="https://2489344858.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://2489344858.github.io/images/avatar.png</logo>
     <icon>https://2489344858.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 吾谓乃翁&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[一些网站]]></title>
+        <id>https://2489344858.github.io/post/yi-xie-wang-zhan/</id>
+        <link href="https://2489344858.github.io/post/yi-xie-wang-zhan/">
+        </link>
+        <updated>2021-02-26T16:47:40.000Z</updated>
+        <content type="html"><![CDATA[<p>https://moises.ai/zh-cn/ 伴奏提取（多音轨）<br>
+https://www.edityouraudio.com/zh-Hans/ 伴奏提取<br>
+https://www.pixwox.com/zh-hans/ ins免登录浏览<br>
+https://www.allmusic.com/ Allmusic<br>
+https://www.mingyantong.com/ 名言通（本人恶搞专用）<br>
+https://citizeninsane.eu/index.html Radiohead<br>
+https://plumz.me/ Plum's Blog<br>
+https://lab.magiconch.com/nbnhhsh/ 能不能好好说话？<br>
+https://store.steampowered.com/publisher/annapurnainteractive Annapurna Interactive （独立游戏发行商）<br>
+https://ddrk.me/ 低端影视<br>
+http://www.get-youtube-thumbnail.com/ Youtube封面获取<br>
+https://downloads.khinsider.com/ 游戏OST<br>
+https://www.lumendatabase.org/ 侵权网站（可以反向寻找盗版游戏网站）<br>
+http://www.skidrowreloaded.com/ 盗版游戏<br>
+https://www.yinsiduanxin.com/ 隐私短信（短信验证码在线接收码平台）<br>
+https://saucenao.com/ SauceNAO（以图搜图）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习资料]]></title>
+        <id>https://2489344858.github.io/post/xue-xi-zi-liao/</id>
+        <link href="https://2489344858.github.io/post/xue-xi-zi-liao/">
+        </link>
+        <updated>2021-02-26T16:42:49.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>老师们</strong><br>
+大原向葵 https://xslist.org/en/model/47524.html<br>
+桃乃木香奈 https://xslist.org/en/model/231.html<br>
+相泽南 https://xslist.org/zh/model/157.html<br>
+桥本有菜 https://xslist.org/zh/model/24.html<br>
+<strong>网站</strong><br>
+jable https://jable.tv/<br>
+avgle https://avgle.com/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无题]]></title>
         <id>https://2489344858.github.io/post/wu-ti/</id>
